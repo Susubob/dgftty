@@ -31,3 +31,8 @@ Add:现在亮色的背景不再会干扰识别了!
 Add:适配非16:9分辨率,真正做到「无需任何配置」
 
 2021/09/08 v1.3.1
+ceshikankan meifakam wuyu
+
+ikun xiaoheizi baleshuang shuangleba
+
+duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima
