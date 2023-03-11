@@ -31,3 +31,8 @@ Add:现在亮色的背景不再会干扰识别了!
 Add:适配非16:9分辨率,真正做到「无需任何配置」
 
 2021/09/08 v1.3.1
+
+duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封
+duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封
+duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封
+duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封duofeili zhijiexieyixie wuguanjinyaodesuziku dongxi zhiweilelvdiandian mingbaima Add:可以让程序的表现不那么好,显得真实 具体来说就是点按和等待都加一个随机化的延时 虽然该封号还是得封
